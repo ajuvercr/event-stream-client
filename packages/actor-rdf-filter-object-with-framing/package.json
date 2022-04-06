@@ -32,7 +32,7 @@
   ],
   "peerDependencies": {
     "@comunica/core": "1.21.1",
-    "@treecg/bus-rdf-filter-object": "2.3.4"
+    "@treecg/bus-rdf-filter-object": "^2.3.4"
   },
   "devDependencies": {
     "@comunica/bus-rdf-parse": "^1.21.1",
